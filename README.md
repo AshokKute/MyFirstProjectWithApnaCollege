@@ -1,4 +1,4 @@
 # MyFirstProjectWithApnaCollege
 basic calculator project
 
-added color for buttons
+Author - ashok kute
